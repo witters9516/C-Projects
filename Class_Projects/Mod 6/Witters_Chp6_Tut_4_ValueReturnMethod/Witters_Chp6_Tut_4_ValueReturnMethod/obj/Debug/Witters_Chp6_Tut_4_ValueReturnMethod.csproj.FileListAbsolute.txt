@@ -1,0 +1,9 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\bin\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\bin\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\bin\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\obj\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\obj\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\obj\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\obj\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\obj\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_4_ValueReturnMethod\Witters_Chp6_Tut_4_ValueReturnMethod\obj\Debug\Witters_Chp6_Tut_4_ValueReturnMethod.pdb

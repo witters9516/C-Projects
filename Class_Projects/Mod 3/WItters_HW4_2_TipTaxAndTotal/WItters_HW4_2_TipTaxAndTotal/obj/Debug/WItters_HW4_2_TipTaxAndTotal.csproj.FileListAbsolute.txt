@@ -1,0 +1,18 @@
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\bin\Debug\WItters_HW4_2_TipTaxAndTotal.exe.config
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\bin\Debug\WItters_HW4_2_TipTaxAndTotal.exe
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\bin\Debug\WItters_HW4_2_TipTaxAndTotal.pdb
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.Form1.resources
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.Properties.Resources.resources
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.exe
+C:\Users\owner\Desktop\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.pdb
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\bin\Debug\WItters_HW4_2_TipTaxAndTotal.exe.config
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.exe
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.pdb
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\bin\Debug\WItters_HW4_2_TipTaxAndTotal.exe
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\bin\Debug\WItters_HW4_2_TipTaxAndTotal.pdb
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.csprojResolveAssemblyReference.cache
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.Form1.resources
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.Properties.Resources.resources
+E:\CIS 153 - C# programming\Mod 3\WItters_HW4_2_TipTaxAndTotal\WItters_HW4_2_TipTaxAndTotal\obj\Debug\WItters_HW4_2_TipTaxAndTotal.csproj.GenerateResource.Cache

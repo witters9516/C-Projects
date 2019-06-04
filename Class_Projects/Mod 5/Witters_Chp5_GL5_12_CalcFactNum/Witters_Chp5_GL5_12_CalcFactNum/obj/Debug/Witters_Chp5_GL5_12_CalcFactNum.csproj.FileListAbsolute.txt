@@ -1,0 +1,9 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\bin\Debug\Witters_Chp5_GL5_12_CalcFactNum.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\bin\Debug\Witters_Chp5_GL5_12_CalcFactNum.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\bin\Debug\Witters_Chp5_GL5_12_CalcFactNum.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\obj\Debug\Witters_Chp5_GL5_12_CalcFactNum.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\obj\Debug\Witters_Chp5_GL5_12_CalcFactNum.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\obj\Debug\Witters_Chp5_GL5_12_CalcFactNum.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\obj\Debug\Witters_Chp5_GL5_12_CalcFactNum.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\obj\Debug\Witters_Chp5_GL5_12_CalcFactNum.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_GL5_12_CalcFactNum\Witters_Chp5_GL5_12_CalcFactNum\obj\Debug\Witters_Chp5_GL5_12_CalcFactNum.pdb

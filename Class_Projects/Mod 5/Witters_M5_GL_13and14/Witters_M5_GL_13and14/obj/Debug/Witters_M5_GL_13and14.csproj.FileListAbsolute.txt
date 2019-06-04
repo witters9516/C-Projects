@@ -1,0 +1,10 @@
+C:\Users\Public\Documents\visual studio 2015\Projects\Witters_M5_GL_13and14\Witters_M5_GL_13and14\bin\Debug\Witters_M5_GL_13and14.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\bin\Debug\Witters_M5_GL_13and14.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\bin\Debug\Witters_M5_GL_13and14.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\bin\Debug\Witters_M5_GL_13and14.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\obj\Debug\Witters_M5_GL_13and14.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\obj\Debug\Witters_M5_GL_13and14.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\obj\Debug\Witters_M5_GL_13and14.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\obj\Debug\Witters_M5_GL_13and14.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\obj\Debug\Witters_M5_GL_13and14.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_M5_GL_13and14\Witters_M5_GL_13and14\obj\Debug\Witters_M5_GL_13and14.pdb

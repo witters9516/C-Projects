@@ -1,0 +1,16 @@
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\bin\Debug\Witters_Chp5_Tutorial_7_TotalSales.exe.config
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\bin\Debug\Witters_Chp5_Tutorial_7_TotalSales.exe
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\bin\Debug\Witters_Chp5_Tutorial_7_TotalSales.pdb
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.Form1.resources
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.Properties.Resources.resources
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.csproj.GenerateResource.Cache
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.exe
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\bin\Debug\Witters_Chp5_Tutorial_7_TotalSales.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\bin\Debug\Witters_Chp5_Tutorial_7_TotalSales.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\bin\Debug\Witters_Chp5_Tutorial_7_TotalSales.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_7_TotalSales\Witters_Chp5_Tutorial_7_TotalSales\obj\Debug\Witters_Chp5_Tutorial_7_TotalSales.csproj.GenerateResource.Cache

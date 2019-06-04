@@ -1,0 +1,9 @@
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\bin\Debug\Witters_Chp5_Tutorial_8_CoinToss.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\bin\Debug\Witters_Chp5_Tutorial_8_CoinToss.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\obj\Debug\Witters_Chp5_Tutorial_8_CoinToss.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\obj\Debug\Witters_Chp5_Tutorial_8_CoinToss.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\obj\Debug\Witters_Chp5_Tutorial_8_CoinToss.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\bin\Debug\Witters_Chp5_Tutorial_8_CoinToss.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\bin\Debug\Witters_Chp5_Tutorial_8_CoinToss.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\obj\Debug\Witters_Chp5_Tutorial_8_CoinToss.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_8_CoinToss\Witters_Chp5_Tutorial_8_CoinToss\obj\Debug\Witters_Chp5_Tutorial_8_CoinToss.pdb

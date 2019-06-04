@@ -1,0 +1,8 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_4_ColorMixer\Witters_HW6_4_ColorMixer\bin\Debug\Witters_HW6_4_ColorMixer.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_4_ColorMixer\Witters_HW6_4_ColorMixer\bin\Debug\Witters_HW6_4_ColorMixer.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_4_ColorMixer\Witters_HW6_4_ColorMixer\bin\Debug\Witters_HW6_4_ColorMixer.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_4_ColorMixer\Witters_HW6_4_ColorMixer\obj\Debug\Witters_HW6_4_ColorMixer.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_4_ColorMixer\Witters_HW6_4_ColorMixer\obj\Debug\Witters_HW6_4_ColorMixer.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_4_ColorMixer\Witters_HW6_4_ColorMixer\obj\Debug\Witters_HW6_4_ColorMixer.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_4_ColorMixer\Witters_HW6_4_ColorMixer\obj\Debug\Witters_HW6_4_ColorMixer.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_4_ColorMixer\Witters_HW6_4_ColorMixer\obj\Debug\Witters_HW6_4_ColorMixer.pdb

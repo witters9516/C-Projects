@@ -1,0 +1,9 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\bin\Debug\Witters_Chp6_Tut_5_PayAndBonus.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\bin\Debug\Witters_Chp6_Tut_5_PayAndBonus.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\bin\Debug\Witters_Chp6_Tut_5_PayAndBonus.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\obj\Debug\Witters_Chp6_Tut_5_PayAndBonus.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\obj\Debug\Witters_Chp6_Tut_5_PayAndBonus.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\obj\Debug\Witters_Chp6_Tut_5_PayAndBonus.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\obj\Debug\Witters_Chp6_Tut_5_PayAndBonus.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\obj\Debug\Witters_Chp6_Tut_5_PayAndBonus.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_Chp6_Tut_5_PayAndBonus\Witters_Chp6_Tut_5_PayAndBonus\obj\Debug\Witters_Chp6_Tut_5_PayAndBonus.pdb

@@ -1,0 +1,9 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\bin\Debug\Witters_Chp5_HW9_9DiceSimulator.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\bin\Debug\Witters_Chp5_HW9_9DiceSimulator.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\bin\Debug\Witters_Chp5_HW9_9DiceSimulator.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\obj\Debug\Witters_Chp5_HW9_9DiceSimulator.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\obj\Debug\Witters_Chp5_HW9_9DiceSimulator.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\obj\Debug\Witters_Chp5_HW9_9DiceSimulator.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\obj\Debug\Witters_Chp5_HW9_9DiceSimulator.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\obj\Debug\Witters_Chp5_HW9_9DiceSimulator.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_HW9_9DiceSimulator\Witters_Chp5_HW9_9DiceSimulator\obj\Debug\Witters_Chp5_HW9_9DiceSimulator.pdb

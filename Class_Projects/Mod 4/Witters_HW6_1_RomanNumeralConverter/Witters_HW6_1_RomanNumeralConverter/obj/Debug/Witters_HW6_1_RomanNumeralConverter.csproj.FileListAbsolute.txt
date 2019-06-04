@@ -1,0 +1,9 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\bin\Debug\Witters_HW6_1_RomanNumeralConverter.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\bin\Debug\Witters_HW6_1_RomanNumeralConverter.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\bin\Debug\Witters_HW6_1_RomanNumeralConverter.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\obj\Debug\Witters_HW6_1_RomanNumeralConverter.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\obj\Debug\Witters_HW6_1_RomanNumeralConverter.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\obj\Debug\Witters_HW6_1_RomanNumeralConverter.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\obj\Debug\Witters_HW6_1_RomanNumeralConverter.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\obj\Debug\Witters_HW6_1_RomanNumeralConverter.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW6_1_RomanNumeralConverter\Witters_HW6_1_RomanNumeralConverter\obj\Debug\Witters_HW6_1_RomanNumeralConverter.pdb

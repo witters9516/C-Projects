@@ -1,0 +1,16 @@
+E:\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\bin\Debug\Witters_Chp4_Tutorial_6.exe.config
+E:\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\bin\Debug\Witters_Chp4_Tutorial_6.exe
+E:\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\bin\Debug\Witters_Chp4_Tutorial_6.pdb
+E:\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.Form1.resources
+E:\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.Properties.Resources.resources
+E:\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.csproj.GenerateResource.Cache
+E:\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.exe
+E:\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\bin\Debug\Witters_Chp4_Tutorial_6.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\bin\Debug\Witters_Chp4_Tutorial_6.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\bin\Debug\Witters_Chp4_Tutorial_6.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_Chp4_Tutorial_6\Witters_Chp4_Tutorial_6\obj\Debug\Witters_Chp4_Tutorial_6.csproj.GenerateResource.Cache

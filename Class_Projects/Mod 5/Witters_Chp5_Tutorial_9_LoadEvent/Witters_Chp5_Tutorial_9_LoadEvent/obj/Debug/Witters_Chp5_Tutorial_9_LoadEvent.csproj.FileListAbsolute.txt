@@ -1,0 +1,16 @@
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\bin\Debug\Witters_Chp5_Tutorial_9_LoadEvent.exe.config
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\bin\Debug\Witters_Chp5_Tutorial_9_LoadEvent.exe
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\bin\Debug\Witters_Chp5_Tutorial_9_LoadEvent.pdb
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.Form1.resources
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.Properties.Resources.resources
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.csproj.GenerateResource.Cache
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.exe
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\bin\Debug\Witters_Chp5_Tutorial_9_LoadEvent.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\bin\Debug\Witters_Chp5_Tutorial_9_LoadEvent.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\bin\Debug\Witters_Chp5_Tutorial_9_LoadEvent.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_9_LoadEvent\Witters_Chp5_Tutorial_9_LoadEvent\obj\Debug\Witters_Chp5_Tutorial_9_LoadEvent.csproj.GenerateResource.Cache

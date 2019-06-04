@@ -1,0 +1,9 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\bin\Debug\Witters_HW7_9_ChangeToDollars.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\bin\Debug\Witters_HW7_9_ChangeToDollars.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\bin\Debug\Witters_HW7_9_ChangeToDollars.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\obj\Debug\Witters_HW7_9_ChangeToDollars.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\obj\Debug\Witters_HW7_9_ChangeToDollars.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\obj\Debug\Witters_HW7_9_ChangeToDollars.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\obj\Debug\Witters_HW7_9_ChangeToDollars.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\obj\Debug\Witters_HW7_9_ChangeToDollars.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_9_ChangeToDollars\Witters_HW7_9_ChangeToDollars\obj\Debug\Witters_HW7_9_ChangeToDollars.pdb

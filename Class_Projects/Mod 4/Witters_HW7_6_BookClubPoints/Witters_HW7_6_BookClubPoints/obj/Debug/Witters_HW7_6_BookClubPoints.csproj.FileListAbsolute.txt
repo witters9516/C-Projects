@@ -1,0 +1,9 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\bin\Debug\Witters_HW7_6_BookClubPoints.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\bin\Debug\Witters_HW7_6_BookClubPoints.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\bin\Debug\Witters_HW7_6_BookClubPoints.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\obj\Debug\Witters_HW7_6_BookClubPoints.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\obj\Debug\Witters_HW7_6_BookClubPoints.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\obj\Debug\Witters_HW7_6_BookClubPoints.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\obj\Debug\Witters_HW7_6_BookClubPoints.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\obj\Debug\Witters_HW7_6_BookClubPoints.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 4\Witters_HW7_6_BookClubPoints\Witters_HW7_6_BookClubPoints\obj\Debug\Witters_HW7_6_BookClubPoints.pdb

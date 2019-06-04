@@ -1,0 +1,8 @@
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_HW8_1DistanceCalculator\Witters_HW8_1DistanceCalculator\bin\Debug\Witters_HW8_1DistanceCalculator.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_HW8_1DistanceCalculator\Witters_HW8_1DistanceCalculator\bin\Debug\Witters_HW8_1DistanceCalculator.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_HW8_1DistanceCalculator\Witters_HW8_1DistanceCalculator\bin\Debug\Witters_HW8_1DistanceCalculator.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_HW8_1DistanceCalculator\Witters_HW8_1DistanceCalculator\obj\Debug\Witters_HW8_1DistanceCalculator.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_HW8_1DistanceCalculator\Witters_HW8_1DistanceCalculator\obj\Debug\Witters_HW8_1DistanceCalculator.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_HW8_1DistanceCalculator\Witters_HW8_1DistanceCalculator\obj\Debug\Witters_HW8_1DistanceCalculator.csproj.GenerateResource.Cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_HW8_1DistanceCalculator\Witters_HW8_1DistanceCalculator\obj\Debug\Witters_HW8_1DistanceCalculator.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 6\Witters_HW8_1DistanceCalculator\Witters_HW8_1DistanceCalculator\obj\Debug\Witters_HW8_1DistanceCalculator.pdb

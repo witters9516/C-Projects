@@ -1,0 +1,10 @@
+In 1 hours, the distance is 10.
+In 2 hours, the distance is 20.
+In 3 hours, the distance is 30.
+In 4 hours, the distance is 40.
+In 5 hours, the distance is 50.
+In 6 hours, the distance is 60.
+In 7 hours, the distance is 70.
+In 8 hours, the distance is 80.
+In 9 hours, the distance is 90.
+In 10 hours, the distance is 100.

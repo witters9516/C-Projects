@@ -1,0 +1,18 @@
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\bin\Debug\Witters_HW5_10_FarenheitToCelcius.exe.config
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\bin\Debug\Witters_HW5_10_FarenheitToCelcius.exe
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\bin\Debug\Witters_HW5_10_FarenheitToCelcius.pdb
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.Form1.resources
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.Properties.Resources.resources
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.exe
+C:\Users\owner\Desktop\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.pdb
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\bin\Debug\Witters_HW5_10_FarenheitToCelcius.exe.config
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.exe
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.pdb
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\bin\Debug\Witters_HW5_10_FarenheitToCelcius.exe
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\bin\Debug\Witters_HW5_10_FarenheitToCelcius.pdb
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.csprojResolveAssemblyReference.cache
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.Form1.resources
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.Properties.Resources.resources
+E:\CIS 153 - C# programming\Mod 3\Witters_HW5_10_FarenheitToCelcius\Witters_HW5_10_FarenheitToCelcius\obj\Debug\Witters_HW5_10_FarenheitToCelcius.csproj.GenerateResource.Cache

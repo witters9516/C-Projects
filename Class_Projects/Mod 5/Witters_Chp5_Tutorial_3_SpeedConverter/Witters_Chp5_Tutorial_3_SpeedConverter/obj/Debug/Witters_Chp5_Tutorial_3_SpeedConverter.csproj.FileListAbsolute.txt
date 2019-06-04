@@ -1,0 +1,18 @@
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\bin\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.exe.config
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\bin\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.exe
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\bin\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.pdb
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.csprojResolveAssemblyReference.cache
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.Form1.resources
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.Properties.Resources.resources
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.csproj.GenerateResource.Cache
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.exe
+E:\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\bin\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.exe.config
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\bin\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.exe
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\bin\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.pdb
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.csprojResolveAssemblyReference.cache
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.Form1.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.Properties.Resources.resources
+E:\Programming Classes Spring 2017\CIS 153 - C# programming\Mod 5\Witters_Chp5_Tutorial_3_SpeedConverter\Witters_Chp5_Tutorial_3_SpeedConverter\obj\Debug\Witters_Chp5_Tutorial_3_SpeedConverter.csproj.GenerateResource.Cache
