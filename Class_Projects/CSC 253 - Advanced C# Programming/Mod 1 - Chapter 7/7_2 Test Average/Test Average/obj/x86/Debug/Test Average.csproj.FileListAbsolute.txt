@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\User\Desktop\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\User\Desktop\Test Average\Test Average\obj\x86\Debug\Test Average.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\User\Desktop\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\User\Desktop\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\User\Desktop\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\User\Desktop\7_2 Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\User\Desktop\7_2 Test Average\Test Average\obj\x86\Debug\Test Average.pdb

@@ -1,0 +1,8 @@
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-1 Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-1 Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-1 Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csprojResolveAssemblyReference.cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-1 Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Form1.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-1 Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Properties.Resources.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-1 Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.GenerateResource.Cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-1 Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-1 Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.pdb

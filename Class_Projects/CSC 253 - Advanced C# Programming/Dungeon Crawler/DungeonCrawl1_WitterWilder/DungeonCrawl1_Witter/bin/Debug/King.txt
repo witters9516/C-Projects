@@ -1,0 +1,12 @@
+King
+The,king,of,this,realm.,He,is,no,pushover.
+300
+200
+300
+200
+15
+12
+15
+12
+13
+300

@@ -1,0 +1,9 @@
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\bin\Debug\M3PP3_Witter.exe.config
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\bin\Debug\M3PP3_Witter.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\bin\Debug\M3PP3_Witter.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\obj\Debug\M3PP3_Witter.csprojResolveAssemblyReference.cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\obj\Debug\M3PP3_Witter.Form1.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\obj\Debug\M3PP3_Witter.Properties.Resources.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\obj\Debug\M3PP3_Witter.csproj.GenerateResource.Cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\obj\Debug\M3PP3_Witter.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\M3PP3_Witter\M3PP3_Witter\obj\Debug\M3PP3_Witter.pdb

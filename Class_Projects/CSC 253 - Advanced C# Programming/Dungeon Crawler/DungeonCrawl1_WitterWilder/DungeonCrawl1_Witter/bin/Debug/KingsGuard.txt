@@ -1,0 +1,12 @@
+King's,Guard
+A,master,fighter,that,serves,as,the,king's,personal,defender.
+125
+30
+125
+30
+12
+10
+7
+8
+8
+24

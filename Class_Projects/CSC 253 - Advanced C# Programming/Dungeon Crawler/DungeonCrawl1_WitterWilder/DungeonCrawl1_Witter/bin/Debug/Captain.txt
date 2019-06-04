@@ -1,0 +1,12 @@
+Captain
+A,soldier,that,has,command,over,grunts.
+35
+10
+35
+10
+6
+5
+3
+3
+4
+6

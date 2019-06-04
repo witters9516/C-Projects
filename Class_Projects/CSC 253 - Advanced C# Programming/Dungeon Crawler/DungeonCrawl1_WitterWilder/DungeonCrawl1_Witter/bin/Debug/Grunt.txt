@@ -1,0 +1,12 @@
+Grunt
+A,simple,foot,soldier.
+25
+5
+25
+5
+4
+2
+1
+2
+3
+3

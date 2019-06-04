@@ -1,0 +1,5 @@
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 4 - Chapter 10\M4PP4_Witter\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 4 - Chapter 10\M4PP4_Witter\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 4 - Chapter 10\M4PP4_Witter\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 4 - Chapter 10\M4PP4_Witter\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 4 - Chapter 10\M4PP4_Witter\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,7 @@
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-7 Random Card\Random Card\bin\Debug\Random Card.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-7 Random Card\Random Card\bin\Debug\Random Card.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-7 Random Card\Random Card\obj\x86\Debug\Random_Card.Form1.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-7 Random Card\Random Card\obj\x86\Debug\Random_Card.Properties.Resources.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-7 Random Card\Random Card\obj\x86\Debug\Random Card.csproj.GenerateResource.Cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-7 Random Card\Random Card\obj\x86\Debug\Random Card.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-7 Random Card\Random Card\obj\x86\Debug\Random Card.pdb

@@ -1,0 +1,16 @@
+C:\Users\Thor\Desktop\Instructor\C#\csc253\_gaddis\0134400399_sc-258390\Student Sample Programs\Chap08\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\Thor\Desktop\Instructor\C#\csc253\_gaddis\0134400399_sc-258390\Student Sample Programs\Chap08\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\Thor\Desktop\Instructor\C#\csc253\_gaddis\0134400399_sc-258390\Student Sample Programs\Chap08\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csprojResolveAssemblyReference.cache
+C:\Users\Thor\Desktop\Instructor\C#\csc253\_gaddis\0134400399_sc-258390\Student Sample Programs\Chap08\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+C:\Users\Thor\Desktop\Instructor\C#\csc253\_gaddis\0134400399_sc-258390\Student Sample Programs\Chap08\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Thor\Desktop\Instructor\C#\csc253\_gaddis\0134400399_sc-258390\Student Sample Programs\Chap08\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.Cache
+C:\Users\Thor\Desktop\Instructor\C#\csc253\_gaddis\0134400399_sc-258390\Student Sample Programs\Chap08\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\Thor\Desktop\Instructor\C#\csc253\_gaddis\0134400399_sc-258390\Student Sample Programs\Chap08\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-4 CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-4 CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-4 CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-4 CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-4 CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csprojResolveAssemblyReference.cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-4 CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-4 CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 2 - Chapter 8\8-4 CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.Cache

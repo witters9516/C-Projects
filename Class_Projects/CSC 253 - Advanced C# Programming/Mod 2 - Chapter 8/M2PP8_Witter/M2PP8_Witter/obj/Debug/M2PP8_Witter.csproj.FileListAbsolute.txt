@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\bin\Debug\M2PP8_Witter.exe.config
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\bin\Debug\M2PP8_Witter.exe
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\bin\Debug\M2PP8_Witter.pdb
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\obj\Debug\M2PP8_Witter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\obj\Debug\M2PP8_Witter.Form1.resources
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\obj\Debug\M2PP8_Witter.Properties.Resources.resources
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\obj\Debug\M2PP8_Witter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\obj\Debug\M2PP8_Witter.exe
+C:\Users\User\Desktop\M2PP8_Witter\M2PP8_Witter\obj\Debug\M2PP8_Witter.pdb

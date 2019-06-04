@@ -1,0 +1,7 @@
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-4 Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-4 Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-4 Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Form1.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-4 Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Properties.Resources.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-4 Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.GenerateResource.Cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-4 Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 3 - Chapter 9\9-4 Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.pdb

@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Test Score List\Test Score List\bin\Debug\Test Score List.exe
+C:\Users\User\Desktop\Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+C:\Users\User\Desktop\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+C:\Users\User\Desktop\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+C:\Users\User\Desktop\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+C:\Users\User\Desktop\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
+C:\Users\User\Desktop\7_4 Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+C:\Users\User\Desktop\7_4 Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 1 - Chapter 7\7_4 Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 1 - Chapter 7\7_4 Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 1 - Chapter 7\7_4 Test Score List\Test Score List\bin\Debug\Test Score List.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 1 - Chapter 7\7_4 Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 1 - Chapter 7\7_4 Test Score List\Test Score List\obj\x86\Debug\Test Score List.csprojResolveAssemblyReference.cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 1 - Chapter 7\7_4 Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 1 - Chapter 7\7_4 Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 1 - Chapter 7\7_4 Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.Cache

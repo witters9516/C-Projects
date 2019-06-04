@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M5T1-2_Witter", "M5T1-2_Witter\M5T1-2_Witter.csproj", "{4EA42CA7-6CF8-4808-9590-70C74BB3C266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA42CA7-6CF8-4808-9590-70C74BB3C266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA42CA7-6CF8-4808-9590-70C74BB3C266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA42CA7-6CF8-4808-9590-70C74BB3C266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA42CA7-6CF8-4808-9590-70C74BB3C266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

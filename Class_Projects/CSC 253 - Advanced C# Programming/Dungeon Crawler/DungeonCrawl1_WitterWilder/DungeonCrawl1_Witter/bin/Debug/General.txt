@@ -1,0 +1,12 @@
+General
+A,soldier,that,takes,command,over,captains.
+70
+20
+70
+20
+6
+6
+4
+7
+6
+12

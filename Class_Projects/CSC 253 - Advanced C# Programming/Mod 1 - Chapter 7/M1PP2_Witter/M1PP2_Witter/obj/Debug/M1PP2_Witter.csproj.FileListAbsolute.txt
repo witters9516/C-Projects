@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\bin\Debug\M1PP2_Witter.exe.config
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\bin\Debug\M1PP2_Witter.exe
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\bin\Debug\M1PP2_Witter.pdb
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\obj\Debug\M1PP2_Witter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\obj\Debug\M1PP2_Witter.lowSalesDescLabel.resources
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\obj\Debug\M1PP2_Witter.Properties.Resources.resources
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\obj\Debug\M1PP2_Witter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\obj\Debug\M1PP2_Witter.exe
+C:\Users\User\Desktop\M1PP2_Witter\M1PP2_Witter\obj\Debug\M1PP2_Witter.pdb

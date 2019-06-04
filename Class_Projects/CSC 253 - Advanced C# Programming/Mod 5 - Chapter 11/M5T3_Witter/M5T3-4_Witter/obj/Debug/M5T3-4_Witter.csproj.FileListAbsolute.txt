@@ -1,0 +1,11 @@
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\bin\Debug\M5T3-4_Witter.exe.config
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\bin\Debug\ProductDB.mdf
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\bin\Debug\ProductDB_log.ldf
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\bin\Debug\M5T3-4_Witter.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\bin\Debug\M5T3-4_Witter.pdb
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\obj\Debug\M5T3-4_Witter.csprojResolveAssemblyReference.cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\obj\Debug\M5T3_4_Witter.Form1.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\obj\Debug\M5T3_4_Witter.Properties.Resources.resources
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\obj\Debug\M5T3-4_Witter.csproj.GenerateResource.Cache
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\obj\Debug\M5T3-4_Witter.exe
+E:\Fall Classes 2017\CSC 253 - Advanced C# Programming\Mod 5 - Chapter 11\M5T3-4_Witter\M5T3-4_Witter\obj\Debug\M5T3-4_Witter.pdb

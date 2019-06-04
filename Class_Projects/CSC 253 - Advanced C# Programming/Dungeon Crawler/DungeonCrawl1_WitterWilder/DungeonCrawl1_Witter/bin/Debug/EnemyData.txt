@@ -1,0 +1,1 @@
+Goblin, A terrifying creature., 30, 30, 15, 15, (Speed), (Attack), (Defense), (Magic), (Magic Defense), (Money Dropped), (Experience)
