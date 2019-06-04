@@ -1,0 +1,12 @@
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\bin\Debug\Witters_Chp2_HW2_Question2.exe.config
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\bin\Debug\Witters_Chp2_HW2_Question2.exe
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\bin\Debug\Witters_Chp2_HW2_Question2.pdb
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\obj\Debug\Witters_Chp2_HW2_Question2.csprojResolveAssemblyReference.cache
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\obj\Debug\Witters_Chp2_HW2_Question2.Form1.resources
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\obj\Debug\Witters_Chp2_HW2_Question2.Properties.Resources.resources
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\obj\Debug\Witters_Chp2_HW2_Question2.csproj.GenerateResource.Cache
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\obj\Debug\Witters_Chp2_HW2_Question2.exe
+E:\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\obj\Debug\Witters_Chp2_HW2_Question2.pdb
+E:\CIS 153 - C# programming\Mod 2\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\bin\Debug\Witters_Chp2_HW2_Question2.exe.config
+E:\CIS 153 - C# programming\Mod 2\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\obj\Debug\Witters_Chp2_HW2_Question2.exe
+E:\CIS 153 - C# programming\Mod 2\Witters_Chp2_HW2_Question2\Witters_Chp2_HW2_Question2\obj\Debug\Witters_Chp2_HW2_Question2.pdb

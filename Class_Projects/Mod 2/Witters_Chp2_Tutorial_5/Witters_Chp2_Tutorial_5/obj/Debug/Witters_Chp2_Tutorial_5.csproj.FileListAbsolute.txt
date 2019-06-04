@@ -1,0 +1,12 @@
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\bin\Debug\Witters_Chp2_Tutorial_5.exe.config
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\bin\Debug\Witters_Chp2_Tutorial_5.exe
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\bin\Debug\Witters_Chp2_Tutorial_5.pdb
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\obj\Debug\Witters_Chp2_Tutorial_5.csprojResolveAssemblyReference.cache
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\obj\Debug\Witters_Chp2_Tutorial_5.Form1.resources
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\obj\Debug\Witters_Chp2_Tutorial_5.Properties.Resources.resources
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\obj\Debug\Witters_Chp2_Tutorial_5.csproj.GenerateResource.Cache
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\obj\Debug\Witters_Chp2_Tutorial_5.exe
+E:\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\obj\Debug\Witters_Chp2_Tutorial_5.pdb
+E:\CIS 153 - C# programming\Mod 2\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\bin\Debug\Witters_Chp2_Tutorial_5.exe.config
+E:\CIS 153 - C# programming\Mod 2\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\obj\Debug\Witters_Chp2_Tutorial_5.exe
+E:\CIS 153 - C# programming\Mod 2\Witters_Chp2_Tutorial_5\Witters_Chp2_Tutorial_5\obj\Debug\Witters_Chp2_Tutorial_5.pdb
