@@ -1,0 +1,2 @@
+E:\Witters_Chp1_Tutorials1-5\Witters_Chp1_Tutorials1-5\bin\Debug\Witters_Chp1_Tutorials1-5.exe.config
+E:\CIS 153 - C# programming\Mod 1\Witters_Chp1_Tutorials1-5\Witters_Chp1_Tutorials1-5\bin\Debug\Witters_Chp1_Tutorials1-5.exe.config
